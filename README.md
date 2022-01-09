@@ -36,4 +36,4 @@ If you use the code in this repository, please cite the preprint [1].
 
 ### License
 
-This software is distributed under the terms of the XXXX license (see [LICENSE.md](./LICENSE.md)).
+This software is distributed under the terms of the BSD 2-Clause "Simplified" license (see [LICENSE.md](./LICENSE.md)).
