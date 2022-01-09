@@ -4,7 +4,7 @@
 
 ### About
 
-The MATLAB code in this repository was used to produce the figures and tables in sections [sect. 1, 1] and [sect. 4, 1]. The results in the manuscript were produced by running these codes in MATLAB 2021b on a machine equipped with an AMD Ryzen 7 PRO 5850U and 32 GiB of RAM.
+The MATLAB code in this repository was used to produce the figures and tables in sections [sect. 1, 1] and [sect. 5, 1]. The results in the manuscript were produced by running these codes in MATLAB 2021b on a machine equipped with an AMD Ryzen 7 PRO 5850U and 32 GiB of RAM.
 
 
 
