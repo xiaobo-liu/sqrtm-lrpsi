@@ -28,7 +28,7 @@ The `run_tests` script sets up the test environment and runs the test suite. Our
 
 [1] M. Fasi, N. J. Higham, and X. Liu. [*Computing the square root of a low-rank perturbation of the scaled identity matrix*](http://eprints.maths.manchester.ac.uk/XXXX/). MIMS EPrint 2021.X, Manchester Institute for Mathematical Sciences, The University of Manchester, UK, December 2021.
 
-[2] [Lingvo](https://github.com/tensorflow/lingvo/)
+[2] [Lingvo](https://github.com/tensorflow/lingvo/).
 
 [3] [Multiprecision Computing Toolbox for MATLAB](https://www.advanpix.com/). Advanpix LLC. Yokohama, Japan.
 
